@@ -1,4 +1,4 @@
-# Eaglercraft (iTech MOD)
+# Eaglercraft (iT MOD)
 
 ![eaglercraft](https://g.deev.is/eaglercraft/cover.png)
 :-:
